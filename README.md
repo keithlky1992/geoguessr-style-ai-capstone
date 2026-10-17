@@ -26,3 +26,11 @@ Can a pretrained image embedding model combined with a simple classifier accurat
 
 ## Project Status
 - Step 1–6 completed
+
+
+## Data Source
+- Dataset: OpenStreetView-5M (OSV-5M)
+- Source: https://huggingface.co/datasets/osv5m/osv5m
+- Paper: CVPR 2024
+- License: CC-BY-SA-4.0
+- Note: We will only use a small balanced subset of 8 countries (≈3,200 images). Full attribution will be provided.
