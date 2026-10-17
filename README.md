@@ -25,7 +25,8 @@ Can a pretrained image embedding model combined with a simple classifier accurat
 - Test: 15%
 
 ## Project Status
-- Step 1–6 completed
+- Step 1–9 completed
+- Next: Plan how to extract a balanced 8-country subset from OpenStreetView-5M
 
 
 ## Data Source
@@ -34,3 +35,10 @@ Can a pretrained image embedding model combined with a simple classifier accurat
 - Paper: CVPR 2024
 - License: CC-BY-SA-4.0
 - Note: We will only use a small balanced subset of 8 countries (≈3,200 images). Full attribution will be provided.
+
+## Next Steps (Week 1)
+1. Explore metadata of OpenStreetView-5M
+2. Filter images belonging to the 8 selected countries
+3. Sample approximately 400 images per country
+4. Save metadata into SQL database
+5. Perform basic EDA
