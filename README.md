@@ -25,8 +25,8 @@ Can a pretrained image embedding model combined with a simple classifier accurat
 - Test: 15%
 
 ## Project Status
-- Step 1–11 completed
-- Next: Set up local environment and start exploring metadata
+- Step 1–13 completed
+- Next: Set up local Python environment and install packages
 
 
 ## Data Source
