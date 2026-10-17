@@ -1,0 +1,8 @@
+datasets
+pandas
+numpy
+sqlalchemy
+matplotlib
+seaborn
+pillow
+tqdm
