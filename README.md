@@ -25,4 +25,4 @@ Can a pretrained image embedding model combined with a simple classifier accurat
 - Test: 15%
 
 ## Project Status
-- Step 1–5 completed
+- Step 1–6 completed
