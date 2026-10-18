@@ -25,9 +25,8 @@ Can a pretrained image embedding model combined with a simple classifier accurat
 - Test: 15%
 
 ## Project Status
-- Step 1–15 completed
-- Next: Write the first script to explore OpenStreetView-5M metadata
-
+- Step 1–20 completed
+- Next: Basic EDA and visualization of the sampled dataset
 
 ## Data Source
 - Dataset: OpenStreetView-5M (OSV-5M)
